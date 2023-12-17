@@ -4,6 +4,9 @@ It helped me understand React a lot better and I'm very happy I took the time to
 
 It's a personal Web Developer Portfolio with 3d objects that are functional and you can play with them. It's really fun and interactive!
 
+If you'd like to see it in action you can check out where I deployed it to Vercel here:
+https://react-3d-portfolio-seven.vercel.app/
+
 ---------------------------------------------------------------------------------------
 # React + Vite
 
